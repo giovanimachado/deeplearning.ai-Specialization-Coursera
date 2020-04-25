@@ -1,5 +1,5 @@
 # Deep Learning Specialization on Coursera
-### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning)
+### [Master Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 Deep Learning Honor Code
 ---
@@ -14,6 +14,15 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 1. Week2 - [Vectorization: importance of vectorization in deep Learning](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Vectorization.ipynb)
 2. Week2 - [Broadcasting in Python](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Broadcasting.ipynb)
 3. Week2 - [A note on python/numpy vectors: tips to avoid bugs when coding matrices](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_python-numpy-vectors.ipynb)
+
+<br>
+<br>
+<br>
+
+Below this point is under construction
+---
+
+
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
