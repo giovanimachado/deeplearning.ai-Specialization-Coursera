@@ -9,8 +9,11 @@ This is my personal notes and codes for the course. The course covers deep learn
 
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
- ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
- 
+## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+
+1. Week2 - [Vectorization: importance of vectorization in deep Learning](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Vectorization.ipynb)
+2. Week2 - [Broadcasting in Python](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_Broadcasting.ipynb)
+3. Week2 - [A note on python/numpy vectors: tips to avoid bugs when coding matrices](https://github.com/giovanimachado/deeplearning.ai-Specialization-Coursera/blob/master/Course1_Neural-Networks-and-Deep-Learning/Week2_python-numpy-vectors.ipynb)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
